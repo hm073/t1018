@@ -62,6 +62,7 @@ header {
 
 /* 서브메뉴 */
 #header .subMenu {
+    transition: all 0.3s;
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -86,6 +87,7 @@ header {
 
 /* 다운 */
 .show {
+    transition: all 0.3s;
     top: 100px;
     width: 100%;
     
