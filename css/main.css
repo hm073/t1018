@@ -70,7 +70,7 @@ header {
     justify-content: flex-start;
     
     width: 100%;
-    /* overflow: hidden; */
+    overflow: hidden;
     /* background-color: black; */
     
     padding: 20px 0;
@@ -82,7 +82,7 @@ header {
 }
 
 #header .subMenu a {
-    line-height: 180%;
+    line-height: 210%;
 }
 
 /* 다운 */
